@@ -1,0 +1,17 @@
+a {
+    color:white !important
+}
+.image{
+    width:100%;
+    
+}
+
+.title {
+    color:green;
+    font-weight:bold;
+    font-size: 20px;
+}
+.section-height{
+    height:400px !important;
+    object-fit: contain;
+}
