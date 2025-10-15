@@ -1,5 +1,6 @@
 a {
-    color:white !important
+    color:white !important;
+    text-decoration:none;
 }
 .image{
     width:100%;
