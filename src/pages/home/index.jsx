@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Banner from '../../components/banner'
 import AboutComponent from '../../components/about'
 import ProductCard from '../../components/cards'
+import ClientReviews from '../../components/client-reviews'
 
 
 const HomePage = () => {
@@ -39,6 +40,7 @@ const HomePage = () => {
         
       </div>
     </div>
+    <ClientReviews />
     
     </>
   )
